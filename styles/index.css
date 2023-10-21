@@ -1,0 +1,27 @@
+body{
+    background-image: url(./images/book\ appointment\ bgi.png);
+    background-color: #771016;
+    ;
+}
+#mummy{
+    margin: 20px;
+    margin-top: 100px;
+}
+col-md{
+    display: flex;
+    margin-left: 5px;
+}
+button{
+    margin-left: 600px;
+    height: 60px;
+    width: 250px;
+    color: #771016;
+    font-family: poppins;
+    font-weight: 600;
+}
+h2{
+    display: flex;
+  color: white;
+    justify-content: center;
+    margin-bottom: 30px;
+}
